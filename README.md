@@ -1,9 +1,12 @@
 ### Hi there 👋
 
-I am Thiha Swan Htet. A self-taught Python programmer. I love data and automation. 
+I am Thiha Swan Htet. A fullstack developer from Myanmar (currently studying in Singapore!). I love data and automation.
 
-I have experiences in <code>Django</code> and is very familiar with developing and working with REST APIs. 
+I do web development and a little bit of DevOps and machine learning. I am comfortable with Python, JavaScript and Go. These days, I am learning C#, Java and Docker.
 
-Check out [Schedjuice4](https://github.com/Ninroot-Eater/schedjuice4) which is my lastest project!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ninroot-Eater&theme=tokyonight)
+Here is my website => [thiha.net](https://thiha.net)
+(Hosted on Heroku and the server sleeps, so you might have to wait for a while to wake it up)
+
+
+
