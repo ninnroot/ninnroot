@@ -6,7 +6,6 @@ I do web development and a little bit of DevOps and machine learning. I am comfo
 
 See how to reach me via my website => [thiha.net](https://thiha.net). 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ninnroot)](https://git.io/streak-stats)
 
 
 
